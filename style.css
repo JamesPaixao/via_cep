@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+    user-select: none;
+}
+body{
+    display: grid;
+    grid-template-rows: 15vh 70vh 15vh;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    background-color: black;
+    font-size: 1.5em;
+}
+header>div{
+    text-align: center;
+    font-weight:bold;
+}
+main>form {
+    width: 30vw;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1vw;
+   
+}
+main>form>div {
+    display: flex;
+    justify-content: space-between;
+}
+
+footer>span {
+    display: flex;
+    font-size: x-small;
+    justify-content: center;
+    word-spacing: 2px;
+}
+span>a{
+    color: blue;
+    margin-left: 3px;
+}
