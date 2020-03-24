@@ -7,4 +7,4 @@ https://viacep.com.br/
 ```
 
 ## Orientador:
-[Professor Fernado Leonid](https://github.com/fernandoleonid)
+[Professor Fernando Leonid](https://github.com/fernandoleonid)
